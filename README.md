@@ -1,1 +1,2 @@
 # happyhour
+## proje bilgilendirmesi
